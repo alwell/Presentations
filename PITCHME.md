@@ -24,8 +24,7 @@
 +++
 - school exclusions: pupils beginning secondary school with very low numeracy skills but good literacy skills have an exclusion rate twice that of pupils starting secondary school with good numeracy skills.
 - truancy: 14-year-olds who had poor mathematics skills at 11 are more than twice as likely to play truant as those achieving the expected skills at 11.
-- crime: A quarter of young people in custody have a numeracy level below that expected of a seven-year-old, and 65% of adult prisoners have numeracy skills at or below the level expected of an 11-year-old (read more about levels).
-- http://www.nationalnumeracy.org.uk/what-is-the-issue/index.html
+- crime: A quarter of young people in custody have a numeracy level below that expected of a seven-year-old, and 65% of adult prisoners have numeracy skills at or below the level expected of an 11-year-old (read more about levels). http://www.nationalnumeracy.org.uk/what-is-the-issue/index.html
 
 ---
 ## Audits-Task
