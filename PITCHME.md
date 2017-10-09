@@ -18,8 +18,7 @@
 - being able to estimate – in all kinds of situations, e.g. journey speed, time and distance, roughly how much a bill will be or - your expected bank balance at the end of the month...
 
 ---
-## Why is it important? 
-
+**Why is it important?**
 - employment: people with poor numeracy skills are more than twice as likely to be unemployed as those competent in numeracy.
 - social, emotional and behavioural difficulties: Children with these problems are more likely than other children to struggle with numeracy, even taking into account factors such as home background and general ability.
 - school exclusions: pupils beginning secondary school with very low numeracy skills but good literacy skills have an exclusion rate twice that of pupils starting secondary school with good numeracy skills.
