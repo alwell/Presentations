@@ -34,3 +34,5 @@ Pick a statement from your speciality.
 Give an example and prepare one question for the rest of the class.
 
 ---
+
+![Logo](assets/logo.jpg)
