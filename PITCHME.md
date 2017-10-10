@@ -35,4 +35,4 @@ Give an example and prepare one question for the rest of the class.
 
 ---
 
----?image=logo.jpg
+---?image=logo.jpg&size=75% 75%
