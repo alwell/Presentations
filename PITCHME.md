@@ -36,4 +36,4 @@ Give an example and prepare one question for the rest of the class.
 ---
 ## Hello there
 
-?image=logo.jpg&size=50% 50%
+---?image=logo.jpg&size=50% 50%
