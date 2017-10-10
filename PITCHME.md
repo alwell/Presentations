@@ -34,5 +34,5 @@ Pick a statement from your speciality.
 Give an example and prepare one question for the rest of the class.
 
 ---
-
----?image=logo.jpg&size=75% 75%
+## Hello there
+---?image=logo.jpg&size=50% 50%
