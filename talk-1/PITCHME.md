@@ -6,6 +6,6 @@
 - In what different ways can we use the whiteboard?
 
 ---
-https://www.youtube.com/watch?v=3oz1oy5ME6Q
+![Video](https://www.youtube.com/watch?v=3oz1oy5ME6Q)
 
 
