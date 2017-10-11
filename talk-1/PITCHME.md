@@ -23,6 +23,8 @@
 1. Applications accessible on many devices
 1. No application needs be installed
 +++
+ Continued..
+ 
 7. Most everyday computer tasks can be done for free e.g presentations, word processing, picture editing, spreadsheets, database, typesetting, planning, assessment, video, animations, slideshows
 8. Hardware can be of lower specification
 9. Data automatically backed up
