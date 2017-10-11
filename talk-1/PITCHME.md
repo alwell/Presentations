@@ -15,21 +15,21 @@
 - Discuss in groups of 3 or 4. Can you think of 10 separate items?
 ---
 ### Advantages
-1. Pupils and teachers have free access to many different types of application for free
-1. Easily share work or work in groups.
-1. Easier for pupils to to present work in class
-1. Easily add multimedia to work.
-1. Learn by linking. Research fluid
-1. Applications accessible on many devices
-1. No application needs be installed
+- Pupils and teachers have free access to many different types of application for free
+- Easily share work or work in groups.
+- Easier for pupils to to present work in class
+- Easily add multimedia to work.
+- Learn by linking. Research fluid
+- Applications accessible on many devices
+- No application needs be installed
 +++
  Continued..
  
-7. Most everyday computer tasks can be done for free e.g presentations, word processing, picture editing, spreadsheets, database, typesetting, planning, assessment, video, animations, slideshows
-8. Hardware can be of lower specification
-9. Data automatically backed up
-10. No danger of losing data by having your computer stolen
-11. Cloud computers boot quicker and are safer from a virus attack.
+- Most everyday computer tasks can be done for free e.g presentations, word processing, picture editing, spreadsheets, database, typesetting, planning, assessment, video, animations, slideshows
+- Hardware can be of lower specification
+- Data automatically backed up
+- No danger of losing data by having your computer stolen
+- Cloud computers boot quicker and are safer from a virus attack.
 ---
 ### Disadvantages
 - Needs internet connection
