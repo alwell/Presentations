@@ -23,17 +23,17 @@
 1. Applications accessible on many devices
 1. No application needs be installed
 +++
-1. Most everyday computer tasks can be done for free e.g presentations, word processing, picture editing, spreadsheets, database, typesetting, planning, assessment, video, animations, slideshows
-1. Hardware can be of lower specification
-1. Data automatically backed up
-1. No danger of losing data by having your computer stolen
-1. Cloud computers boot quicker and are safer from a virus attack.
+7. Most everyday computer tasks can be done for free e.g presentations, word processing, picture editing, spreadsheets, database, typesetting, planning, assessment, video, animations, slideshows
+8. Hardware can be of lower specification
+9. Data automatically backed up
+10. No danger of losing data by having your computer stolen
+11. Cloud computers boot quicker and are safer from a virus attack.
 ---
 ### Disadvantages
 - Needs internet connection
 - Habit
 ---
-## In what ways can we use the interactive whitewboard?
+## In what ways can we use the interactive whiteboard?
 - Venn diagrams
 - Match the phrases
 - Label a diagram
