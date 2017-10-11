@@ -14,6 +14,7 @@
 - What are the advantages and disadvantages of using cloud technology?
 - Discuss in groups of 3 or 4. Can you think of 10 separate items?
 ---
+### Advantages
 1. Pupils and teachers have free access to many different types of application for free
 1. Easily share work or work in groups.
 1. Easier for pupils to to present work in class
@@ -27,10 +28,13 @@
 1. Data automatically backed up
 1. No danger of losing data by having your computer stolen
 1. Cloud computers boot quicker and are safer from a virus attack.
-
+---
 ### Disadvantages
 - Needs internet connection
 - Habit
-
 ---
-
+## In what ways can we use the interactive whitewboard?
+- Venn diagrams
+- Match the phrases
+- Label a diagram
+---
