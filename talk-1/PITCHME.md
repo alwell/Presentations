@@ -5,6 +5,8 @@
 - How can we use cloud computing for teaching?
 - In what different ways can we use the whiteboard?
 
+https://slidetalk.net/Home/Viewer?Video=2493564
+
 ---
 ![Video](https://www.youtube.com/embed/3oz1oy5ME6Q)
 
