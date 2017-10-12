@@ -22,8 +22,10 @@
 - Learn by linking. Research fluid
 - Applications accessible on many devices
 - No application needs be installed
+
 +++
- Continued..
+
+ Continued...
  
 - Most everyday computer tasks can be done for free e.g presentations, word processing, picture editing, spreadsheets, database, typesetting, planning, assessment, video, animations, slideshows
 - Hardware can be of lower specification
@@ -41,6 +43,10 @@
 - Label a diagram
 ---
 # Task
-### Design an activity using Whiteboardfox
+### Design an activity using Whiteboardfox or Awwapp.
 
 ---
+## Some examples
+Freezeray, Echalk, Classdojo, Kahoot, Animoto, Powtoon, Goanimate, Padlet, Answer Garden, Sribblar.com, Whiteboardfox, Awwapp, Realtimewhiteboard.
+
+
