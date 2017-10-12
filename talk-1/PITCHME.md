@@ -1,4 +1,4 @@
-# Teaching with Technology
+## Teaching with Technology
 
 - What are the current trends in computing?
 - What are the advantages and disadvantages of cloud computing?
