@@ -53,6 +53,6 @@ https://whiteboardfox.com/125922-6155-2270
 
 ---
 ## Some examples
-Freezeray, Echalk, Classdojo, Kahoot, Animoto, Powtoon, Goanimate, Padlet, Answer Garden, Sribblar.com, Whiteboardfox, Awwapp, Realtimewhiteboard, Voki.
+Freezeray, Echalk, Classdojo, Kahoot, Animoto, Powtoon, Goanimate, Padlet, Answer Garden, Sribblar.com, Whiteboardfox, Awwapp, Realtimewhiteboard, Voki, Slidetalk.
 
 
