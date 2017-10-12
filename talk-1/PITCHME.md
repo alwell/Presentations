@@ -36,12 +36,16 @@
 ### Disadvantages
 - Needs internet connection
 - Habit
+
 ---
 ## In what ways can we use the interactive whiteboard?
 - Venn diagrams
 - Match the phrases
 - Label a diagram
+- Reveal
+
 ---
+
 # Task
 ### Design an activity using Whiteboardfox or Awwapp.
 
