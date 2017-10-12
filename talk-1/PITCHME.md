@@ -44,6 +44,8 @@
 - Label a diagram
 - Reveal
 
+https://whiteboardfox.com/125922-6155-2270
+
 ---
 
 # Task
@@ -51,6 +53,6 @@
 
 ---
 ## Some examples
-Freezeray, Echalk, Classdojo, Kahoot, Animoto, Powtoon, Goanimate, Padlet, Answer Garden, Sribblar.com, Whiteboardfox, Awwapp, Realtimewhiteboard.
+Freezeray, Echalk, Classdojo, Kahoot, Animoto, Powtoon, Goanimate, Padlet, Answer Garden, Sribblar.com, Whiteboardfox, Awwapp, Realtimewhiteboard, Voki.
 
 
