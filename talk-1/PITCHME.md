@@ -5,7 +5,7 @@
 - How can we use cloud computing for teaching?
 - In what different ways can we use the whiteboard?
 
-https://slidetalk.net/Home/Viewer?Video=2493564
+https://slidetalk.net/Home/Viewer?Video=2493785
 
 ---
 ![Video](https://www.youtube.com/embed/3oz1oy5ME6Q)
@@ -56,5 +56,11 @@ https://whiteboardfox.com/125922-6155-2270
 ---
 ## Some examples
 Freezeray, Echalk, Classdojo, Kahoot, Animoto, Powtoon, Goanimate, Padlet, Answer Garden, Sribblar.com, Whiteboardfox, Awwapp, Realtimewhiteboard, Voki, Slidetalk.
+---
+##
+Craeate a science presentation using Powtoon.
+
+https://www.powtoon.com/edu-home/
+
 
 
