@@ -41,10 +41,10 @@ https://slidetalk.net/Home/Viewer?Video=2493785
 
 ---
 ## In what ways can we use the interactive whiteboard?
-- Venn diagrams
-- Match the phrases
-- Label a diagram
-- Reveal
+- Venn diagrams |
+- Match the phrases |
+- Label a diagram |
+- Reveal |
 
 https://whiteboardfox.com/125922-6155-2270
 
