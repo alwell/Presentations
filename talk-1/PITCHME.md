@@ -60,6 +60,8 @@ Freezeray, Echalk, Classdojo, Kahoot, Animoto, Powtoon, Goanimate, Padlet, Answe
 ##
 Craeate a science presentation using Powtoon.
 
+https://www.powtoon.com/c/e7SQEuoCkB6/1/m
+
 https://www.powtoon.com/edu-home/
 
 
