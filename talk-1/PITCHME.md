@@ -58,7 +58,7 @@ https://whiteboardfox.com/125922-6155-2270
 Freezeray, Echalk, Classdojo, Kahoot, Animoto, Powtoon, Goanimate, Padlet, Answer Garden, Sribblar.com, Whiteboardfox, Awwapp, Realtimewhiteboard, Voki, Slidetalk.
 ---
 ##
-Craeate a science presentation using Powtoon.
+Create a science presentation using Powtoon.
 
 https://www.powtoon.com/c/e7SQEuoCkB6/1/m
 
