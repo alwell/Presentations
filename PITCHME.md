@@ -1,4 +1,4 @@
-# Research Communities session Monday 6th November 
+## Research Communities session 6/11/17 
 
 - What is your question?
 - How is the Enquiry/intervention both an “action” and “research” at the same time? 
@@ -8,21 +8,21 @@
 
 ---
 
-## What is your Question?
-## How is the Enquiry/intervention both an “action” and “research” at the same time? 
+- What is your Question?
+- How is the Enquiry/intervention both an “action” and “research” at the same time? 
 
 Share ideas in pairs 
 
 ---
 
-## What literature have you found to support your intervention?
-## Share literature in pairs
+- What literature have you found to support your intervention?
+- Share literature in pairs
 
 ---
 
-## How can data capture support the action research active intervention? 
+- How can data capture support the action research active intervention? 
 
-## Share literature in pairs.
+- Share literature in pairs.
 
 ---
 
