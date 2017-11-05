@@ -1,16 +1,15 @@
-# Hello there
+# Research Communities session Monday 6th November 
 
-Outline Research Communities session 
+- What is your question?
+- How is the Enquiry/intervention both an “action” and “research” at the same time? 
+- What literature have you found to support your intervention? 
+- Consideration given to how primary data capture can support the action research active intervention. 
+- Ethics of data capture 
 
- 
-
-Monday 6th November (Literature):  
-
-*What is your question? 
-
-*What literature have you found to support your intervention? 
+---
 
 *Share literature in groups 
+
 
 *Refine intervention ideas 
 
