@@ -1,4 +1,4 @@
-## Research Communities session 6/11/17 
+## Research Communities 6/11/17 
 
 - What is your question?
 - How is the Enquiry/intervention both an “action” and “research” at the same time? 
