@@ -7,22 +7,26 @@
 - Ethics of data capture 
 
 ---
+## What is your Question?
+## How is the Enquiry/intervention both an “action” and “research” at the same time? 
 
-*Share literature in groups 
+Share ideas in pairs 
 
+---
 
-*Refine intervention ideas 
+## What literature have you found to support your intervention?
+## Share literature in pairs
 
-*For next week bring in school/class/local data 
+---
+
+## How can data capture support the action research active intervention? 
+
+## Share literature in pairs.
+
+---
+
+## What are the Ethics of data capture?
+
+- For next week bring in school/class/local data 
 
  
-
-*Question: How is the Enquiry/intervention both an “action” and “research” at the same time? 
-
-*Task: Plan action steps for this action research 
-
-*Key focus of intervention in action research, and reflection on its effectiveness. 
-
-*Consideration given to how primary data capture can support the action research active intervention. 
-
-*Ethics of data capture 
