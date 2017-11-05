@@ -1,4 +1,4 @@
-## Research Communities 6/11/17 
+### Research Communities 6/11/17 
 
 - What is your question?
 - How is the Enquiry/intervention both an “action” and “research” at the same time? 
@@ -16,16 +16,19 @@ Share ideas in pairs
 ---
 
 - What literature have you found to support your intervention?
-- Share literature in pairs
+
+Share literature in pairs
 
 ---
 
 - How can data capture support the action research active intervention? 
 
-- Share literature in pairs.
+Share literature in pairs.
 
 ---
 
 ## What are the Ethics of data capture?
 
-- For next week bring in school/class/local data 
+---
+ 
+ ### For next week bring in school/class/local data 
