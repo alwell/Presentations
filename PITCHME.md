@@ -9,7 +9,7 @@
 - What other data collection methods can you use? Why are they important / relevant? (Class / school / local data) 
 
 ---
-### What is the differences between qualitative and quantitative data? 
+### What are the differences between qualitative and quantitative data? 
 
 ---
 
