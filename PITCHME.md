@@ -1,34 +1,26 @@
-### Research Communities 6/11/17 
+### Research Communities 13/11/17 
 
-- What is your question?
-- How is the Enquiry/intervention both an “action” and “research” at the same time? 
-- What literature have you found to support your intervention? 
-- Consideration given to how primary data capture can support the action research active intervention. 
-- Ethics of data capture 
+- What is the differences between qualitative and quantitative data? 
+
+- Which data collection methods will you be using? Why? 
+
+- What literature have you found to support your choice of data collection methods?  
+
+- What other data collection methods can you use? Why are they important / relevant? (Class / school / local data) 
+
+---
+- What is the differences between qualitative and quantitative data? 
 
 ---
 
-- What is your Question?
-- How is the Enquiry/intervention both an “action” and “research” at the same time? 
 
-Share ideas in pairs 
-
+- Which data collection methods will you be using? Why?
 ---
 
-- What literature have you found to support your intervention?
-
-Share literature in pairs
+- What literature have you found to support your choice of data collection methods?  
 
 ---
-
-- How can data capture support the action research active intervention? 
-
-Share literature in pairs.
+- What other data collection methods can you use? Why are they important / relevant? (Class / school / local data) 
 
 ---
-
-## What are the Ethics of data capture?
-
----
- 
- ### For next week bring in school/class/local data 
+- Design draft survey / questionnaire / interview questions and collect feedback from the group. Do your questions need refining? Will the responses giving you the information that you are trying to collect? 
