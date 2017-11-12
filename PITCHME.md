@@ -25,10 +25,11 @@
 - **Creates openness:** encouraging people to expand on their responses can open up new topic areas not initially considered
 
 +++
+<small>
 
 - **Simulates people's individual experiences:** a detailed picture can be built up about why people act in certain ways and their feelings about these actions.
 - **Attempts to avoid pre-judgements:** if used alongside quantitative data collection, it can explain why a particular response was given
-
+</small>
 ---
 
 **Disadvantages of qualitative data analysis:**
