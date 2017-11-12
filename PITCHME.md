@@ -40,8 +40,11 @@
 
 - **Difficult to make systematic comparisons:** for example, if people give widely differing responses that are highly subjective.
 - **Dependent on skills of the researcher:** particularly in the case of conducting interviews, focus groups and observation.
----
 
++++
+-    http://archive.learnhigher.ac.uk/analysethis/main/qualitative.html
+
+---
 - Which data collection methods will you be using? Why?
 ---
 
