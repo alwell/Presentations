@@ -47,14 +47,15 @@
 
 - **Dependent on skills of the researcher:** particularly in the case of conducting interviews, focus groups and observation.
 
-</small>
-
 - [http://archive.learnhigher.ac.uk/analysethis/main/qualitative.html](http://archive.learnhigher.ac.uk/analysethis/main/qualitative.html)
 
+</small>
 
 ---
+
 - Which data collection methods will you be using? Why?
 ---
+
 
 - What literature have you found to support your choice of data collection methods?  
 
