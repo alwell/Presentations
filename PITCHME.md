@@ -26,7 +26,7 @@
 - **Less easy to generalise:** because fewer people are generally studied it is not possible to generalise results to that of the population. Usually exact numbers are reported rather than percentages.
 - **Difficult to make systematic comparisons:** for example, if people give widely differing responses that are highly subjective.
 - **Dependent on skills of the researcher:** particularly in the case of conducting interviews, focus groups and observation.
-    ---
+---
 
 - Which data collection methods will you be using? Why?
 ---
