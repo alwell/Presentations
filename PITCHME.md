@@ -20,29 +20,27 @@
 ---
 
 **Advantages of qualitative data analysis:**
-
+<small
 - **Provides depth and detail:** looks deeper than analysing ranks and counts by recording attitudes, feelings and behaviours
 - **Creates openness:** encouraging people to expand on their responses can open up new topic areas not initially considered
-
-+++
-<small>
-
 - **Simulates people's individual experiences:** a detailed picture can be built up about why people act in certain ways and their feelings about these actions.
 - **Attempts to avoid pre-judgements:** if used alongside quantitative data collection, it can explain why a particular response was given
+
 </small>
 ---
 
 **Disadvantages of qualitative data analysis:**
 
+<small>
+
 - **Usually fewer people studied:** collection of qualitative data is generally more time consuming that quantitative data collection and therefore unless time, staff and budget allows it is generally necessary to include a smaller sample size.
 - **Less easy to generalise:** because fewer people are generally studied it is not possible to generalise results to that of the population. Usually exact numbers are reported rather than percentages.
-
-+++
 
 - **Difficult to make systematic comparisons:** for example, if people give widely differing responses that are highly subjective.
 - **Dependent on skills of the researcher:** particularly in the case of conducting interviews, focus groups and observation.
 
-+++
+</small>
+
 -    http://archive.learnhigher.ac.uk/analysethis/main/qualitative.html
 
 ---
