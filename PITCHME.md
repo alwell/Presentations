@@ -13,6 +13,12 @@
 - What are the advantages and disadvantages og both?
 
 ---
+- **Qualitative data:** Data that approximates or characterizes but does not measure the attributes, characteristics, properties, etc., of a thing or phenomenon. Qualitative data describes whereas quantitative data defines.
+
+- **Quantitative data:** Information about quantities; that is, information that can be measured and written down with numbers. Some examples of quantitative data are your height, your shoe size, and the length of your fingernails. ... Here's a quick look at the difference between qualitative and quantitative data.
+
+---
+
 ## Advantages of qualitative data analysis:
 
 - **Provides depth and detail:** looks deeper than analysing ranks and counts by recording attitudes, feelings and behaviours
