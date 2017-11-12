@@ -15,11 +15,11 @@
 ---
 ## Advantages of qualitative data analysis:
 
-    - **Provides depth and detail:** looks deeper than analysing ranks and counts by recording attitudes, feelings and behaviours
-    - **Creates openness:** encouraging people to expand on their responses can open up new topic areas not initially considered
-    - **Simulates people's individual experiences:** a detailed picture can be built up about why people act in certain ways and their feelings about these actions.
-    - **Attempts to avoid pre-judgements:** if used alongside quantitative data collection, it can explain why a particular response was given
-
+- **Provides depth and detail:** looks deeper than analysing ranks and counts by recording attitudes, feelings and behaviours
+- **Creates openness:** encouraging people to expand on their responses can open up new topic areas not initially considered
+- **Simulates people's individual experiences:** a detailed picture can be built up about why people act in certain ways and their feelings about these actions.
+- **Attempts to avoid pre-judgements:** if used alongside quantitative data collection, it can explain why a particular response was given
+---
 - Which data collection methods will you be using? Why?
 ---
 
