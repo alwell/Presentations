@@ -19,7 +19,11 @@ https://nfer.ac.uk/schools/research-in-schools/ethics-and-data-security/
 +++  
  **The right to withdraw:** All participants have the right to withdraw from your research at any time, even if they have already agreed to participate. You must make it clear to all participants that they have this right, even where, for example, a parent/carer or headteacher has already given proxy-consent.
 +++     
-**Confidentiality:** <small> You need to tell your research participants if what they tell you will remain confidential to only you (and your research team). This means ensuring they are never identifiable to anyone. You cannot even tell anyone who has/has not been involved in your research. Confidentiality also has practical implications for your research, for example, you must not write participant’s names or any other identifying information about them on any notes you take. Instead, you need to give them an anonymous identification code. Some research is carried out with the intention of naming individuals; this is fine in some circumstances and must be made explicit from the outset.</small>
+**Confidentiality:** <small> You need to tell your research participants if what they tell you will remain confidential to only you (and your research team). This means ensuring they are never identifiable to anyone. You cannot even tell anyone who has/has not been involved in your research. 
+    
+Confidentiality also has practical implications for your research, for example, you must not write participant’s names or any other identifying information about them on any notes you take. Instead, you need to give them an anonymous identification code. 
+
+Some research is carried out with the intention of naming individuals; this is fine in some circumstances and must be made explicit from the outset.</small>
 +++     
 **Explanation of disclosures:** During any research, it is possible that a child or vulnerable adult may make a disclosure. This may be more likely for some pieces of research than others. You need to be familiar with your organisation’s disclosure processes and who your child protection designated staff member is, in the event of a disclosure being made.
 +++     
