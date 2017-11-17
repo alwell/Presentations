@@ -1,9 +1,10 @@
 ## Monday 20th November (Reflection): 
 
-- Review of intervention to date and how far trainees have got with it. 
+    - Why are ethical considerations important in school-based research? 
 
-- Reflection: What have you noticed so far? What is working and what isn’t working? Have you seen anything significant?  
+    - Which TS would research-informed practice come under? 
 
-- Does your intervention need adapting or tweaking? 
+    - Which TS would ethical issues in research-informed practice come under? 
+    Why are ethical considerations important in school-based research? 
 
 ---
