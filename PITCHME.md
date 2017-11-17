@@ -1,12 +1,19 @@
-## Monday 20th November (Reflection): 
+## Monday 20th November: 
 
 - Why are ethical considerations important in school-based research? 
 
 - Which TS would research-informed practice come under? 
 
 - Which TS would ethical issues in research-informed practice come under? 
-    Why are ethical considerations important in school-based research? 
 
+---
+
+## Which TS would research-informed practice come under? 
+
+---
+## Which TS would ethical issues in research-informed practice come under? 
+---
+## Why are ethical considerations important in school-based research? 
 ---
 
 - Ethics must be considered throughout your research project. As things change, so might the ethical implications of your research. Ethics are important because they consider:
@@ -27,7 +34,11 @@ Some research is carried out with the intention of naming individuals; this is f
 +++     
 **Explanation of disclosures:** During any research, it is possible that a child or vulnerable adult may make a disclosure. This may be more likely for some pieces of research than others. You need to be familiar with your organisation’s disclosure processes and who your child protection designated staff member is, in the event of a disclosure being made.
 +++     
-**Appropriateness of methods:** When undertaking research, give careful consideration to how you will collect information (for example, surveys, interviews, focus groups etc). You need to ensure your chosen method is most appropriate for your intended participants. For example, sending a survey to four year olds or to disengaged young people is not likely to be appropriate; interviewing them would be better. In addition, you need to consider how much time you are asking participants to spend on your research - often the shorter the amount of time the better. See also: Planning your research, and Choosing your method.
+**Appropriateness of methods:** <small>When undertaking research, give careful consideration to how you will collect information (for example, surveys, interviews, focus groups etc). 
+
+You need to ensure your chosen method is most appropriate for your intended participants. For example, sending a survey to four year olds or to disengaged young people is not likely to be appropriate; interviewing them would be better. 
+
+In addition, you need to consider how much time you are asking participants to spend on your research - often the shorter the amount of time the better. See also: Planning your research, and Choosing your method.</small
 +++
      
 
