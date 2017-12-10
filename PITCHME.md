@@ -17,7 +17,7 @@ How do you present your enquiry as a question?
 # 2 
 What exactly will your intervention be like? 
 
-What? When? With Whome? How?
+What? When? Who with? How?
 
 ---
 
