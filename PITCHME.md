@@ -14,23 +14,28 @@ How do you present your enquiry as a question?
 
 ---
 
-2) What exactly will your intervention be like? 
+# 2 
+What exactly will your intervention be like? 
+
 What? When? With Whome? How?
 
 ---
 
-3) What else happens along the way? What will you produce on the way?
+# 3 What else happens along the way? What will you produce on the way?
 What will you have to show?
 
 ---
 
-4) What additional means of data collection will you neeed to employ?
+# 4 What additional means of data collection will you neeed to employ?
 
 ---
 
-5How will you involve colleagues? 
+# 5
+How will you involve colleagues? 
 
 ---
+
+# 6 
 
 How will you involve pupils?
----?image=logo.jpg&size=50% 50%
+
