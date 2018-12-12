@@ -1,3 +1,3 @@
 ## Morden Depot
 
-![Morden_depot](/assets/morden_depot.jpg&size=80%)
+![Morden_depot](---?image=/assets/morden_depot.jpg&size=80%)
