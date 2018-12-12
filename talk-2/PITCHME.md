@@ -7,7 +7,7 @@
 Hello
 
 ---
-![Colliers Wood](/assets/colliers_wood.jpg)
+---?image=asset/colliers_wood.jpg&size=50%
 
 #### Colliers Wood
 ---
