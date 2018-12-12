@@ -7,7 +7,7 @@
 Hello
 
 ---
----?image=asset/colliers_wood.jpg&size=50%
+---?image=assets/colliers_wood.jpg&size=50%
 
 #### Colliers Wood
 ---
