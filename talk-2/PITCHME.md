@@ -1,3 +1,3 @@
 # Morden Depot
 
-![Mordon_depot](/mordon_depot.jpg)
+![Morden_depot](/morden_depot.jpg)
