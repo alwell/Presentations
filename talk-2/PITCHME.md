@@ -1,10 +1,11 @@
 
 
-@snap[west span-50]
-![Morden_depot](/assets/morden_depot.jpg)
+@snap[west span-60]
+![Morden_depot](/assets/morden_depot.jpg)@snap[west span-50]
+#### Morden
 @snapend
 
-@snap[east span-50]
+@snap[east span-40]
 ## slide content quotes hhh jjj jjj kkkkkk llll
 @snapend
 
