@@ -6,7 +6,10 @@
 @snapend
 
 @snap[east span-40]
-## slide content quotes hhh jjj jjj kkkkkk llll
+ Before one realizes it, one is lured by
+clinging to the idea of self. The scriptures are subtle, profound
+in meaning, and when one is reading them one may be deluded
+by wrong understanding. Acharn Sujin’s clear explanations o Preface Vip letter
 @snapend
 
 
