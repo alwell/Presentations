@@ -4,10 +4,10 @@
 ![Morden_depot](/assets/morden_depot.jpg)@snap[west span-50]
 #### Morden Depot
 @snapend
-
+&size=50% 100%&color=lightgray
 @snap[east span-40]
 ### Thought of the day
-"Pay the price to obtain the prize"
+@quote[Pay the price to obtain the prize](Anon)
 @snapend
 
 ---
