@@ -18,7 +18,7 @@ Hello
 ---
 #### Camden High Street
 
----?image=/assets/output.jpg)
+---?image=/assets/output.jpg
 
 ---
 
