@@ -1,10 +1,10 @@
+
 @snap[west span-50]
 ![Morden_depot](/assets/morden_depot.jpg)
-@snap[east span-50]
-Hello
 
-#### Morden Depot
-+++
+@snap[east span-20]
+Hello
+---
 
 Hello
 
