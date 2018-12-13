@@ -18,7 +18,9 @@ Hello
 ---
 #### Camden High Street
 
-![South Wimbledon](/assets/output.jpg)
+---?image=/assets/output.jpg)
+
+---
 
 #### Colliers Wood
 
