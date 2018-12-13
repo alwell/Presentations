@@ -5,10 +5,9 @@
 #### Morden Depot
 @snapend
 
-@snap[east span-50]
-## Thought of the day
-### Date: 11th September 2015
- "Pay the price to obtain the prize"
+@snap[east span-40]
+### Thought of the day
+"Pay the price to obtain the prize"
 @snapend
 
 ---
