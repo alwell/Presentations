@@ -7,6 +7,7 @@
 
 @snap[east span-50]
 ## Thought of the day
+### Date: 11th September 2015
  "Pay the price to obtain the prize"
 @snapend
 
