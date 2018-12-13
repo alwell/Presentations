@@ -1,17 +1,16 @@
 
 
-@snap[west span-60]
+@snap[west span-50]
 ![Morden_depot](/assets/morden_depot.jpg)@snap[west span-50]
-#### Morden
+#### Morden Depot
 @snapend
 
-@snap[east span-40]
+@snap[east span-50]
  Before one realizes it, one is lured by
 clinging to the idea of self. The scriptures are subtle, profound
 in meaning, and when one is reading them one may be deluded
 by wrong understanding. Acharn Sujin’s clear explanations o Preface Vip letter
 @snapend
-
 
 ---
 
