@@ -1,5 +1,8 @@
 
-@snap[west span-70]
+
+# Morden
+
+@snap[west span-50]
 ![Morden_depot](/assets/morden_depot.jpg)
 @snapend
 
