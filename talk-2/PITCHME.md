@@ -3,7 +3,7 @@
 @snap[west span-50]
 ![Morden_depot](/assets/morden_depot.jpg)
 
-@color[dark red](**Morden Depot**)
+@color[red](**Morden Depot**)
 @snapend
 
 @snap[east span-50]
