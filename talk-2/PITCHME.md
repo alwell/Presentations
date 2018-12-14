@@ -16,12 +16,12 @@
 
 @snap[west span-50]
 ![Morden](/assets/morden.jpg)
-@color[#DC143C](**Morden**)
+@color[#DC143C](Morden)
 @snapend
 
 @snap[east span-50]
-#### Thought of the day
-*Date:  April 2018*
+#### @color[blue](Thought of the day)
+@size[0.7em](*Date:  April 2018*)
 @quote[Pay the price to obtain the prize](Anon)
 @snapend
 
@@ -29,20 +29,27 @@
 
 @snap[west span-50]
 ![South Wimbledon](/assets/south_wimbledon.jpg)
-@color[#DC143C](**South Wimbledon**)
+@color[#DC143C](South Wimbledon)
 @snapend
 
 @snap[east span-50]
-#### Thought of the day
-*Date:  30th September 2016*
+#### @color[blue](Thought of the day)
+@size[0.7em](*Date:  30th September 2016*)
 @quote[Be the change you wish to see in the world](M. Ghandi)
 @snapend
 
 ---
 
-#### Colliers Wood
+@snap[west span-50]
+![Colliers Wood](/assets/colliers_wood.jpg)
+@color[#DC143C](Colliers Wood)
+@snapend
 
-@quote[gggg](hh hyh kikik)
+@snap[east span-50]
+#### @color[blue](Thought of the day)
+@size[0.7em](*Date:  30th September 2016*)
+@quote[Be the change you wish to see in the world](M. Ghandi)
+@snapend
 ---
 
 #### South Wimbledon
