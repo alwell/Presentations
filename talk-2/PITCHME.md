@@ -2,7 +2,7 @@
 
 @snap[west span-50]
 ![Morden_depot](/assets/morden_depot.jpg)
-#### @color[red](Morden Depot)
+##### @color[red](Morden Depot)
 @snapend
 
 @snap[east span-50]
@@ -15,12 +15,12 @@
 
 @snap[west span-50]
 ![Morden](/assets/morden.jpg)
-#### Morden
+##### Morden
 @snapend
 
 @snap[east span-40]
 #### Thought of the day
-**Date:  April 2018
+*Date:  April 2018*
 @quote[Pay the price to obtain the prize](Anon)
 @snapend
 
