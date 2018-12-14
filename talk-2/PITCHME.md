@@ -7,7 +7,7 @@
 
 @snap[east span-50]
 #### Thought of the day
-**Date:  April 2018**
+*Date:  April 2018*
 @quote[No one saves us but ourselves. No one can and no one may. We ourselves must walk the path](Buddha)
 @snapend
 
