@@ -1,6 +1,6 @@
+---?image=assets/morden_depot.jpg&size=auto 80%
 @snap[north]
 Morden Depot
----?image=assets/morden_depot.jpg&size=auto 80%
 +++
 
 @color[#DC143C](Morden Depot)
