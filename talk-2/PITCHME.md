@@ -1,23 +1,36 @@
 
 
 @snap[west span-50]
-![Morden_depot](/assets/morden_depot.jpg)@snap[west span-50]
+![Morden_depot](/assets/morden_depot.jpg)
 #### Morden Depot
 @snapend
 
 @snap[east span-40]
-### Thought of the day
+#### Thought of the day
+**Date:  April 2018
+@quote[No one saves us but ourselves. No one can and no one may. We ourselves must walk the path](Buddha)
+@snapend
+
+---
+
+@snap[west span-50]
+![Morden](/assets/morden.jpg)
+#### Morden
+@snapend
+
+@snap[east span-40]
+#### Thought of the day
+**Date:  April 2018
 @quote[Pay the price to obtain the prize](Anon)
 @snapend
 
 ---
 
-Hello
-
----
-
 
 ---?image=/assets/output.jpg&size=50% 100%&color=lightgray
+
+@quote[Pay the price to obtain the prize](Anon)
+@snapend
 
 ---
 
