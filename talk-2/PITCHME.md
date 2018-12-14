@@ -1,7 +1,4 @@
-
----?image=assets/morden_depot.jpg&size=contain
-
-
+---?image=assets/morden_depot.jpg&size=80% 80%
 +++
 
 @color[#DC143C](Morden Depot)
