@@ -7,8 +7,8 @@
 @snapend
 
 @snap[east span-50]
-#### Thought of the day
-@size[0.5em](*Date:  April 2018*)
+#### @color[blue](Thought of the day)
+@size[0.7em](*Date:  April 2018*)
 @quote[No one saves us but ourselves. No one can and no one may. We ourselves must walk the path](Buddha)
 @snapend
 
