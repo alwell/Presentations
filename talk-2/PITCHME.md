@@ -2,7 +2,7 @@
 
 @snap[west span-50]
 ![Morden_depot](/assets/morden_depot.jpg)
-#### Morden Depot
+#### @color[red](Morden Depot)
 @snapend
 
 @snap[east span-50]
