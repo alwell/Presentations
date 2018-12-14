@@ -14,7 +14,7 @@
 
 ---
 
-@snap[west span-60]
+@snap[west span-50]
 ![Morden](/assets/morden.jpg)
 @color[#DC143C](**Morden**)
 @snapend
