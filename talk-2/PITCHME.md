@@ -1,3 +1,5 @@
+@snap[north]
+Morden Depot
 ---?image=assets/morden_depot.jpg&size=auto 80%
 +++
 
