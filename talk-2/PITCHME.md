@@ -16,7 +16,7 @@
 
 @snap[west span-50]
 ![Morden](/assets/morden.jpg)
-##### Morden
+@color[#DC143C](**Morden**)
 @snapend
 
 @snap[east span-40]
@@ -27,10 +27,15 @@
 
 ---
 
+@snap[west span-50]
+![South Wimbledon](/assets/south_wimbledon.jpg)
+@color[#DC143C](**South Wimbledon**)
+@snapend
 
----?image=/assets/output.jpg&size=50% 100%&color=lightgray
-
-@quote[Pay the price to obtain the prize](Anon)
+@snap[east span-40]
+#### Thought of the day
+*Date:  30th September 2016*
+@quote[Be the change you wish to see in the world](M. Ghandi)
 @snapend
 
 ---
